@@ -1,17 +1,19 @@
 ## Hi there 👋
-Это мой профиль на GitHub.
-Здесь я делюсь своими проектами и кодом.
-<!--
-**Vladimir3412/Vladimir3412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Vladimir 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm currently learning web development with a focus on **React**, **JavaScript**, **Node.js**, and **Tailwind CSS**.
+## 
+🚀 **Currently working on:**
+- I'm creating an online store, working with **React** and **JavaScript**.
+- Exploring backend development with **Node.js**.
+- Styling with **Tailwind CSS** to create responsive and modern UIs.
+## 
+💡 **Learning goals:**
+- Master React hooks, state management, and routing.
+- Build full-stack applications using **React** and **Node.js**.
+- Improve my frontend design skills with **Tailwind CSS**.
+## 
+📬 Feel free to connect with me on [Telegram](https://t.me/YoungVova) ✨
+
+
