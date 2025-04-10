@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Это мой профиль на GitHub.
+Здесь я делюсь своими проектами и кодом.
 <!--
 **Vladimir3412/Vladimir3412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
