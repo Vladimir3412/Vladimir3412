@@ -14,6 +14,6 @@ Welcome to my GitHub profile! I'm currently learning web development with a focu
 - Build full-stack applications using **React** and **Node.js**.
 - Improve my frontend design skills with **Tailwind CSS**.
 ## 
-📬 Feel free to connect with me on [Telegram](https://t.me/YoungVova) ✨
+📬 Feel free to connect with me on [Telegram](https://t.me/Vladimir842) ✨
 
 
